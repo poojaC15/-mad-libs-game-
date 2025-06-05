@@ -20,8 +20,3 @@ This is a simple **Mad Libs** game written in Java. It prompts the user to input
 - Java (JDK 8 or later)
 - Console-based input using `Scanner`
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/mad-libs-java.git
